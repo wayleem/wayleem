@@ -1,8 +1,5 @@
-## [check me out](https://www.wayleem.com/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayleem&layout=donut)
 
-### I use these
+Connect with me on [LinkedIn!](https://www.linkedin.com/in/will-huang2/)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,svelte,tailwind,nodejs,neovim,linux)](https://skillicons.dev)
-
-### see more on [linkedin](https://www.linkedin.com/in/will-huang2/) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/)
-
+Or reach me by email wayleemh@gmail.com
