@@ -3,3 +3,6 @@
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/will-huang2/)
 
 Or reach me by email wayleemh@gmail.com
+
+## What I'm currently working on ⬇️
+Feel free to take a look at my pins and contribute!
