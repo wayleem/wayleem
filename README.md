@@ -15,8 +15,3 @@
 - You can view 🌐 my portfolio [website](https://www.wayleem.com)
 - Come connect 🔗 with me on [LinkedIn](https://www.linkedin.com/in/will-huang2/)
 - Reach out 📨 to me via [email](mailto:wayleemh@gmail.com)
-
-
-## My Repo Overview 📊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayleem&layout=donut)
